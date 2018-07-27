@@ -1,0 +1,11 @@
+com/criva/pipelinerunners/bigquery/model/BigQueryField.class
+com/criva/pipelinerunners/App.class
+com/criva/pipelinerunners/pipeline/util/WordCountUtils.class
+com/criva/pipelinerunners/bigquery/model/BigQueryFieldFn.class
+com/criva/pipelinerunners/pipeline/function/CountWords.class
+com/criva/pipelinerunners/bigquery/model/BigQueryData.class
+com/criva/pipelinerunners/bigquery/function/BigQueryWrite.class
+com/criva/pipelinerunners/pipeline/function/PickWords.class
+com/criva/pipelinerunners/bigquery/function/BigQueryCreateRow.class
+com/criva/pipelinerunners/pipeline/options/PipelineRunnersOptions.class
+com/criva/pipelinerunners/pipeline/function/KeyValueToString.class

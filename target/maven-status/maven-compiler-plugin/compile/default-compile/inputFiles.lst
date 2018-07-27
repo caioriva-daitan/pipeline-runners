@@ -1,0 +1,11 @@
+/home/criva/repos/pipeline-runners/src/main/java/com/criva/pipelinerunners/bigquery/function/BigQueryWrite.java
+/home/criva/repos/pipeline-runners/src/main/java/com/criva/pipelinerunners/bigquery/function/BigQueryCreateRow.java
+/home/criva/repos/pipeline-runners/src/main/java/com/criva/pipelinerunners/pipeline/function/CountWords.java
+/home/criva/repos/pipeline-runners/src/main/java/com/criva/pipelinerunners/bigquery/model/BigQueryFieldFn.java
+/home/criva/repos/pipeline-runners/src/main/java/com/criva/pipelinerunners/pipeline/options/PipelineRunnersOptions.java
+/home/criva/repos/pipeline-runners/src/main/java/com/criva/pipelinerunners/pipeline/function/KeyValueToString.java
+/home/criva/repos/pipeline-runners/src/main/java/com/criva/pipelinerunners/pipeline/util/WordCountUtils.java
+/home/criva/repos/pipeline-runners/src/main/java/com/criva/pipelinerunners/bigquery/model/BigQueryData.java
+/home/criva/repos/pipeline-runners/src/main/java/com/criva/pipelinerunners/bigquery/model/BigQueryField.java
+/home/criva/repos/pipeline-runners/src/main/java/com/criva/pipelinerunners/pipeline/function/PickWords.java
+/home/criva/repos/pipeline-runners/src/main/java/com/criva/pipelinerunners/App.java
