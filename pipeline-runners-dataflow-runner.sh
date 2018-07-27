@@ -5,6 +5,7 @@ export GOOGLE_APPLICATION_CREDENTIALS="${HOME}/repos/dataflow-sandbox-fe006f43ab
 mvn exec:java \
   -Dexec.mainClass=com.criva.pipelinerunners.App \
   -Dexec.cleanupDaemonThreads=false \
+  -Pdataflow-runner \
   -Dexec.args="--appName=pipeline-runners \
                --jobName=pipeline-runners-job \
                --runner=DataflowRunner \
